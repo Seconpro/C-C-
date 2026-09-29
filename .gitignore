@@ -1,0 +1,15 @@
+# Visual Studio local state and build outputs
+.vs/
+Debug/
+Release/
+x64/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.exe
+
+# OS files
+.DS_Store
+Thumbs.db
